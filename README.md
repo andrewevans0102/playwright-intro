@@ -1,6 +1,6 @@
 # Playwright Intro
 
-This project goes with my post [Playwright for End to End Tests]().
+This project goes with my post [Playwright for End to End Tests](https://rhythmandbinary.com/post/2022-05-22-playwright-for-end-to-end-tests).
 
 This project uses AWS Amplify Auth for login and logout. To run this yourself you must first do the following:
 
