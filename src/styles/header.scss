@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    flex-direction: column;
+
+    button {
+        height: 40px;
+        width: 100px;
+    }
+
+    p {
+        color: red;
+        word-wrap: break-word;
+        max-width: 400px;
+    }
+}

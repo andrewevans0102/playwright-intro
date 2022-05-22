@@ -1,0 +1,10 @@
+.inventory {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    &__button {
+        margin-left: auto;
+        margin-right: 0;
+    }
+}

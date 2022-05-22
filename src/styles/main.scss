@@ -1,0 +1,6 @@
+@import 'mixins';
+
+.main {
+    @include center-align;
+    margin-top: 20px;
+}
